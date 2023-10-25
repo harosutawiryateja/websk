@@ -10,22 +10,22 @@ class MahasiswaController extends Controller
         [
             'nim' => "123456",
             'nama' => "I Putu satu",
-            'jurusan' => "TI",
+            'mata_kuliah' => "web programing",
         ],
         [
             'nim' => "234567",
             'nama' => "I Wayan dua",
-            'jurusan' => "TI",
+            'mata_kuliah' => "server administasi",
         ],
         [
             'nim' => "345678",
             'nama' => "I Ketut tiga",
-            'jurusan' => "SK",
+            'mata_kuliah' => "machine learning",
         ],
         [
             'nim' => "456789",
             'nama' => "I Kadek empat",
-            'jurusan' => "DGM",
+            'mata_kuliah' => "microposesor",
         ],
     ];
 
